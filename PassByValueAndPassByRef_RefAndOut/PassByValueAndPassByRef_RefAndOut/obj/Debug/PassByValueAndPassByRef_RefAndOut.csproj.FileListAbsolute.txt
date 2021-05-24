@@ -1,0 +1,6 @@
+D:\Basic C#\Console Applications\PassByValueAndPassByRef_RefAndOut\PassByValueAndPassByRef_RefAndOut\bin\Debug\PassByValueAndPassByRef_RefAndOut.exe.config
+D:\Basic C#\Console Applications\PassByValueAndPassByRef_RefAndOut\PassByValueAndPassByRef_RefAndOut\bin\Debug\PassByValueAndPassByRef_RefAndOut.exe
+D:\Basic C#\Console Applications\PassByValueAndPassByRef_RefAndOut\PassByValueAndPassByRef_RefAndOut\bin\Debug\PassByValueAndPassByRef_RefAndOut.pdb
+D:\Basic C#\Console Applications\PassByValueAndPassByRef_RefAndOut\PassByValueAndPassByRef_RefAndOut\obj\Debug\PassByValueAndPassByRef_RefAndOut.csprojAssemblyReference.cache
+D:\Basic C#\Console Applications\PassByValueAndPassByRef_RefAndOut\PassByValueAndPassByRef_RefAndOut\obj\Debug\PassByValueAndPassByRef_RefAndOut.exe
+D:\Basic C#\Console Applications\PassByValueAndPassByRef_RefAndOut\PassByValueAndPassByRef_RefAndOut\obj\Debug\PassByValueAndPassByRef_RefAndOut.pdb

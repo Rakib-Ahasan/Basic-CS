@@ -1,0 +1,21 @@
+D:\Practice problem solve\JustParctice\Indexer\bin\Debug\netcoreapp2.1\Indexer.deps.json
+D:\Practice problem solve\JustParctice\Indexer\bin\Debug\netcoreapp2.1\Indexer.runtimeconfig.json
+D:\Practice problem solve\JustParctice\Indexer\bin\Debug\netcoreapp2.1\Indexer.runtimeconfig.dev.json
+D:\Practice problem solve\JustParctice\Indexer\bin\Debug\netcoreapp2.1\Indexer.dll
+D:\Practice problem solve\JustParctice\Indexer\bin\Debug\netcoreapp2.1\Indexer.pdb
+D:\Practice problem solve\JustParctice\Indexer\obj\Debug\netcoreapp2.1\Indexer.csprojAssemblyReference.cache
+D:\Practice problem solve\JustParctice\Indexer\obj\Debug\netcoreapp2.1\Indexer.csproj.CoreCompileInputs.cache
+D:\Practice problem solve\JustParctice\Indexer\obj\Debug\netcoreapp2.1\Indexer.AssemblyInfoInputs.cache
+D:\Practice problem solve\JustParctice\Indexer\obj\Debug\netcoreapp2.1\Indexer.AssemblyInfo.cs
+D:\Practice problem solve\JustParctice\Indexer\obj\Debug\netcoreapp2.1\Indexer.dll
+D:\Practice problem solve\JustParctice\Indexer\obj\Debug\netcoreapp2.1\Indexer.pdb
+D:\Basic C#\Indexer\bin\Debug\netcoreapp2.1\Indexer.deps.json
+D:\Basic C#\Indexer\bin\Debug\netcoreapp2.1\Indexer.runtimeconfig.json
+D:\Basic C#\Indexer\bin\Debug\netcoreapp2.1\Indexer.runtimeconfig.dev.json
+D:\Basic C#\Indexer\bin\Debug\netcoreapp2.1\Indexer.dll
+D:\Basic C#\Indexer\bin\Debug\netcoreapp2.1\Indexer.pdb
+D:\Basic C#\Indexer\obj\Debug\netcoreapp2.1\Indexer.csprojAssemblyReference.cache
+D:\Basic C#\Indexer\obj\Debug\netcoreapp2.1\Indexer.AssemblyInfoInputs.cache
+D:\Basic C#\Indexer\obj\Debug\netcoreapp2.1\Indexer.AssemblyInfo.cs
+D:\Basic C#\Indexer\obj\Debug\netcoreapp2.1\Indexer.dll
+D:\Basic C#\Indexer\obj\Debug\netcoreapp2.1\Indexer.pdb

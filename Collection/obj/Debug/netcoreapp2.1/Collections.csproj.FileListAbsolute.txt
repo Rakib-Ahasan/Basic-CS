@@ -1,0 +1,9 @@
+D:\Basic C#\Collection\bin\Debug\netcoreapp2.1\Collections.deps.json
+D:\Basic C#\Collection\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.json
+D:\Basic C#\Collection\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.dev.json
+D:\Basic C#\Collection\bin\Debug\netcoreapp2.1\Collections.dll
+D:\Basic C#\Collection\bin\Debug\netcoreapp2.1\Collections.pdb
+D:\Basic C#\Collection\obj\Debug\netcoreapp2.1\Collections.AssemblyInfoInputs.cache
+D:\Basic C#\Collection\obj\Debug\netcoreapp2.1\Collections.AssemblyInfo.cs
+D:\Basic C#\Collection\obj\Debug\netcoreapp2.1\Collections.dll
+D:\Basic C#\Collection\obj\Debug\netcoreapp2.1\Collections.pdb

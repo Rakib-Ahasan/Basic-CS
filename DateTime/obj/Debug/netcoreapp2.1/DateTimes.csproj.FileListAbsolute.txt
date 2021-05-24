@@ -1,0 +1,11 @@
+D:\Basic C#\DateTime\obj\Debug\netcoreapp2.1\DateTimes.csprojAssemblyReference.cache
+D:\Basic C#\DateTime\obj\Debug\netcoreapp2.1\DateTimes.csproj.CoreCompileInputs.cache
+D:\Basic C#\DateTime\obj\Debug\netcoreapp2.1\DateTimes.AssemblyInfoInputs.cache
+D:\Basic C#\DateTime\obj\Debug\netcoreapp2.1\DateTimes.AssemblyInfo.cs
+D:\Basic C#\DateTime\bin\Debug\netcoreapp2.1\DateTimes.deps.json
+D:\Basic C#\DateTime\bin\Debug\netcoreapp2.1\DateTimes.runtimeconfig.json
+D:\Basic C#\DateTime\bin\Debug\netcoreapp2.1\DateTimes.runtimeconfig.dev.json
+D:\Basic C#\DateTime\bin\Debug\netcoreapp2.1\DateTimes.dll
+D:\Basic C#\DateTime\bin\Debug\netcoreapp2.1\DateTimes.pdb
+D:\Basic C#\DateTime\obj\Debug\netcoreapp2.1\DateTimes.dll
+D:\Basic C#\DateTime\obj\Debug\netcoreapp2.1\DateTimes.pdb

@@ -1,0 +1,11 @@
+D:\Basic C#\InterfaceInharitance\bin\Debug\netcoreapp3.1\InterfaceInharitance.exe
+D:\Basic C#\InterfaceInharitance\bin\Debug\netcoreapp3.1\InterfaceInharitance.deps.json
+D:\Basic C#\InterfaceInharitance\bin\Debug\netcoreapp3.1\InterfaceInharitance.runtimeconfig.json
+D:\Basic C#\InterfaceInharitance\bin\Debug\netcoreapp3.1\InterfaceInharitance.runtimeconfig.dev.json
+D:\Basic C#\InterfaceInharitance\bin\Debug\netcoreapp3.1\InterfaceInharitance.dll
+D:\Basic C#\InterfaceInharitance\bin\Debug\netcoreapp3.1\InterfaceInharitance.pdb
+D:\Basic C#\InterfaceInharitance\obj\Debug\netcoreapp3.1\InterfaceInharitance.csprojAssemblyReference.cache
+D:\Basic C#\InterfaceInharitance\obj\Debug\netcoreapp3.1\InterfaceInharitance.AssemblyInfoInputs.cache
+D:\Basic C#\InterfaceInharitance\obj\Debug\netcoreapp3.1\InterfaceInharitance.AssemblyInfo.cs
+D:\Basic C#\InterfaceInharitance\obj\Debug\netcoreapp3.1\InterfaceInharitance.dll
+D:\Basic C#\InterfaceInharitance\obj\Debug\netcoreapp3.1\InterfaceInharitance.pdb

@@ -1,0 +1,11 @@
+D:\Basic C#\TernaryOperator\bin\Debug\netcoreapp2.1\TernaryOperator.deps.json
+D:\Basic C#\TernaryOperator\bin\Debug\netcoreapp2.1\TernaryOperator.runtimeconfig.json
+D:\Basic C#\TernaryOperator\bin\Debug\netcoreapp2.1\TernaryOperator.runtimeconfig.dev.json
+D:\Basic C#\TernaryOperator\bin\Debug\netcoreapp2.1\TernaryOperator.dll
+D:\Basic C#\TernaryOperator\bin\Debug\netcoreapp2.1\TernaryOperator.pdb
+D:\Basic C#\TernaryOperator\obj\Debug\netcoreapp2.1\TernaryOperator.csprojAssemblyReference.cache
+D:\Basic C#\TernaryOperator\obj\Debug\netcoreapp2.1\TernaryOperator.csproj.CoreCompileInputs.cache
+D:\Basic C#\TernaryOperator\obj\Debug\netcoreapp2.1\TernaryOperator.AssemblyInfoInputs.cache
+D:\Basic C#\TernaryOperator\obj\Debug\netcoreapp2.1\TernaryOperator.AssemblyInfo.cs
+D:\Basic C#\TernaryOperator\obj\Debug\netcoreapp2.1\TernaryOperator.dll
+D:\Basic C#\TernaryOperator\obj\Debug\netcoreapp2.1\TernaryOperator.pdb

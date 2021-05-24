@@ -1,0 +1,10 @@
+D:\Basic C#\MethodHiding\bin\Debug\netcoreapp2.1\MethodHiding.deps.json
+D:\Basic C#\MethodHiding\bin\Debug\netcoreapp2.1\MethodHiding.runtimeconfig.json
+D:\Basic C#\MethodHiding\bin\Debug\netcoreapp2.1\MethodHiding.runtimeconfig.dev.json
+D:\Basic C#\MethodHiding\bin\Debug\netcoreapp2.1\MethodHiding.dll
+D:\Basic C#\MethodHiding\bin\Debug\netcoreapp2.1\MethodHiding.pdb
+D:\Basic C#\MethodHiding\obj\Debug\netcoreapp2.1\MethodHiding.csprojAssemblyReference.cache
+D:\Basic C#\MethodHiding\obj\Debug\netcoreapp2.1\MethodHiding.AssemblyInfoInputs.cache
+D:\Basic C#\MethodHiding\obj\Debug\netcoreapp2.1\MethodHiding.AssemblyInfo.cs
+D:\Basic C#\MethodHiding\obj\Debug\netcoreapp2.1\MethodHiding.dll
+D:\Basic C#\MethodHiding\obj\Debug\netcoreapp2.1\MethodHiding.pdb
